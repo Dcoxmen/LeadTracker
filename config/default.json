@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://adminLKpr:DRcL721Tdb@leadtracker-jptm5.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://adminLKpr:DRcL721Tdb@leadtracker-jptm5.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretsauce"
 }
